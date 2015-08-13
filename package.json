@@ -1,0 +1,16 @@
+{
+   "name": "ringo-spa",
+   "version": "0.1",
+   "description": "Single page apps with Ringo.",
+   "maintainers": [{
+      "name": "Philipp Naderer",
+      "email": "philipp.naderer@orf.at"
+   }],
+   "dependencies": {
+      "stick": ">=0.4",
+      "reinhardt": ">=0.4"
+   },
+   "engines": {
+      "ringojs": ">= 0.11"
+   }
+}
